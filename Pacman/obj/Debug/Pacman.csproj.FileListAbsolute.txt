@@ -1,0 +1,38 @@
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\bin\Debug\Pacman.exe
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\bin\Debug\Pacman.pdb
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\bin\Debug\nunit.framework.dll
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\bin\Debug\WPFMediaKit.dll
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\bin\Debug\nunit.framework.pdb
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\bin\Debug\nunit.framework.xml
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\obj\Debug\Pacman.csprojAssemblyReference.cache
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\obj\Debug\Pacman.csproj.CopyComplete
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\obj\Debug\Pacman.exe
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\obj\Debug\Pacman.pdb
+C:\Users\PAVLO\source\repos\pacman-master\Pacman\bin\Debug\DirectShowLib-2005.dll
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\DirectShowLib-2005.dll
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\nunit.engine.dll
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\nunit.engine.api.dll
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\EVRPresenter32.dll
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\EVRPresenter64.dll
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\Pacman.exe
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\Pacman.pdb
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\nunit.framework.dll
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\WPFMediaKit.dll
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\nunit.framework.pdb
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\bin\Debug\nunit.framework.xml
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\obj\Debug\Pacman.csprojAssemblyReference.cache
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\obj\Debug\Pacman.csproj.CopyComplete
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\obj\Debug\Pacman.exe
+C:\Users\User_PavelIks\source\repos\[Из интернета] Pac-Man\Pacman\obj\Debug\Pacman.pdb
