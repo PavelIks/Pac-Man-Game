@@ -16,12 +16,12 @@ namespace Pacman
         }
         public void Play(int num)
         {
-            //int thisone = 0;
-            //for (int x=0;x<players; x++)
-            //{
-            //    if (player[x].IsLoadCompleted) { thisone = x; }
-            //}
-            //player[num].LoadAsync();
+            /*int thisone = 0;
+            for (int x = 0; x < players; x++)
+            {
+                if (player[x].IsLoadCompleted) { thisone = x; }
+            }
+            player[num].LoadAsync();*/
             player[num].Play();
         }
     }
